@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas Vindas ao meu Perfil 💟
 
-<!--
-**mila475/mila475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Camila da Silva Mendes;
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha orgnização e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
+Voce pode entrar em conta comigo pelo email📫
+silva.mendes.camila@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media.tenor.com/Ex1pkci_-v8AAAAi/white-cute-cat-hearts.gif)
+   
